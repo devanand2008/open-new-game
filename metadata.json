@@ -1,0 +1,6 @@
+{
+  "name": "PROJECT: COASTLINE — Solara Bay",
+  "description": "An original 3D third-person open-world urban action-adventure game set in the tropical coastal metropolis of Solara Bay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
